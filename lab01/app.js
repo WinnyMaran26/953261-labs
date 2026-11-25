@@ -5,9 +5,9 @@ import http from "node:http";
 
 const PORT = 3000;
 const profile = {
-  name: "Muran",
-  studentId: "REPLACE_WITH_YOUR_STUDENT_ID",
-  favouriteLanguage: "JavaScript",
+  name: "MURANZHAXIANGWENG",
+  studentId: "692115512",
+  favouriteLanguage: "Java",
 };
 
 const server = http.createServer((req, res) => {

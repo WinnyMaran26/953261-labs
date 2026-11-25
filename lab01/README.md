@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Name** | REPLACE_WITH_YOUR_FULL_NAME |
-| **Nickname** | Muran |
-| **Student ID** | REPLACE_WITH_YOUR_STUDENT_ID |
+| **Nickname** | MURANZHAXIANGWENG |
+| **Student ID** | 692115512 |
 | **Section** | 701 |
 
 ## How to run
@@ -35,4 +35,4 @@ ChatGPT was used to generate the initial route implementation and draft this REA
 
 ## Before submission
 
-Replace `REPLACE_WITH_YOUR_FULL_NAME` and `REPLACE_WITH_YOUR_STUDENT_ID` in this README, and replace `REPLACE_WITH_YOUR_STUDENT_ID` in `app.js`. Confirm that the nickname and favourite language in `app.js` are yours. Commit those edits using your own Git name and email, then push the course repository to GitHub.
+Replace `REPLACE_WITH_YOUR_FULL_NAME` in this README with your full name. Confirm that the nickname and favourite language in `app.js` are yours. Commit those edits using your own Git name and email, then push the course repository to GitHub.
