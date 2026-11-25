@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Name** | REPLACE_WITH_YOUR_FULL_NAME |
+| **Name** | MURANZHAXIANGWENG |
 | **Nickname** | MURANZHAXIANGWENG |
 | **Student ID** | 692115512 |
 | **Section** | 701 |
@@ -35,4 +35,4 @@ ChatGPT was used to generate the initial route implementation and draft this REA
 
 ## Before submission
 
-Replace `REPLACE_WITH_YOUR_FULL_NAME` in this README with your full name. Confirm that the nickname and favourite language in `app.js` are yours. Commit those edits using your own Git name and email, then push the course repository to GitHub.
+Review the code and make sure you can explain it to the TA. On your GitHub account `WinnyMaran26`, create an empty public repository named `953261-labs`, then push this course repository to it. Submit the repository URL on Mango.
