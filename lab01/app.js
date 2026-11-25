@@ -19,7 +19,11 @@ const server = http.createServer((req, res) => {
     return;
   }
 
-  // TODO: add GET /api/me here
+  if (req.method === "GET" && req.url === "/api/me") {
+    res.writeHead(200, { "Content-Type": "application/json; charset=utf-8" });
+    res.end(JSON.stringify(profile));
+    return;
+  }
 
   // TODO: replace this with a proper 404 response
   res.writeHead(200, { "Content-Type": "text/plain" });
