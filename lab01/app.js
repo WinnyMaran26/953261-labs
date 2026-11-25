@@ -25,9 +25,8 @@ const server = http.createServer((req, res) => {
     return;
   }
 
-  // TODO: replace this with a proper 404 response
-  res.writeHead(200, { "Content-Type": "text/plain" });
-  res.end("Not done yet");
+  res.writeHead(404, { "Content-Type": "text/html; charset=utf-8" });
+  res.end("<h1>404 Not Found</h1><p>This page does not exist.</p>");
 });
 
 server.listen(PORT, () => console.log(`Running at http://localhost:${PORT}`));
