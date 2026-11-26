@@ -27,10 +27,7 @@ function addPrices(priceText1, priceText2) {
 
 // Bug 5 — gives the wrong answer. Rewrite it with reduce (no for loop).
 function average(nums) {
-  let sum = 0;
-  for (let i = 0; i < nums.length; i++) {
-    sum += nums[i];
-  }
+  const sum = nums.reduce((total, n) => total + n, 0);
   return sum / nums.length;
 }
 
